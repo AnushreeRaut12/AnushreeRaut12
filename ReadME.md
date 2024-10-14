@@ -10,4 +10,4 @@
 I am final year B.E Student from Sipna College of Engineering, Amravati.
 
 I really love enoying the nature, travelling random places and captuing those little moments.
-Let's connect on LinkedIN : https://www.linkedin.com/in/anushri-raut-8a40742bb/ :)
+Let's connect on LinkedIn : [![linked-in](https://www.linkedin.com/in/anushri-raut-8a40742bb/) :)
